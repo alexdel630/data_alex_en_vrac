@@ -28,3 +28,20 @@ Les onglets `Équipe`, `Projets` et `Suivi` se calculent automatiquement.
 
 Bibliothèque de 316 pictos SVG pour présentations, rangés en 14 catégories.
 Voir [`pictos/README.md`](pictos/README.md).
+
+### `modeles/`
+
+Modèles prêts à remplir (Excel, Word, PowerPoint), régénérables avec le `build.py` de chaque dossier.
+
+| Dossier | Contenu |
+|---|---|
+| [`presentation/`](modeles/presentation) | Modèle de présentation 16:9 (12 diapos) et kit de schémas (matrice 2×2, entonnoir, SWOT, roadmap…) |
+| [`gestion-projet/`](modeles/gestion-projet) | Registre des risques, matrice RACI, tableau de bord projets, suivi des actions, compte rendu de réunion |
+| [`ingenierie/`](modeles/ingenierie) | Cahier des charges, traçabilité des exigences, AMDEC, revue de conception |
+| [`administratif/`](modeles/administratif) | Devis, facture, suivi des temps, notes de frais |
+
+### `tutos/`
+
+Tutoriels en français : logiciel (Git, Python, VS Code, architecture…), algorithmes
+(complexité, tris, graphes, programmation dynamique, exercices) et travail avec l'IA
+(prompts, sécurité, agents de code, API). Voir [`tutos/README.md`](tutos/README.md).
