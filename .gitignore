@@ -1,0 +1,14 @@
+# Fichiers temporaires Excel / LibreOffice
+~$*
+.~lock.*#
+
+# Secrets — ne jamais committer
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# Systeme
+.DS_Store
+Thumbs.db
