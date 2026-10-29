@@ -23,3 +23,8 @@ gabarit à remplir, pas un planning réel.
 **Utilisation** : saisir le planning dans `Gantt`, les sources dans `Financement`,
 la ventilation dans `Répartition`, puis les heures au fil de l'eau dans `Pointage`.
 Les onglets `Équipe`, `Projets` et `Suivi` se calculent automatiquement.
+
+### `pictos/`
+
+Bibliothèque de 316 pictos SVG pour présentations, rangés en 14 catégories.
+Voir [`pictos/README.md`](pictos/README.md).
