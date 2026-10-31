@@ -44,4 +44,4 @@ Modèles prêts à remplir (Excel, Word, PowerPoint), régénérables avec le `b
 
 Tutoriels en français : logiciel (Git, Python, VS Code, architecture…), algorithmes
 (complexité, tris, graphes, programmation dynamique, exercices) et travail avec l'IA
-(prompts, sécurité, agents de code, API). Voir [`tutos/README.md`](tutos/README.md).
+(prompts, sécurité, agents de code, API), Unreal Engine (rendu réaliste). Voir [`tutos/README.md`](tutos/README.md).
