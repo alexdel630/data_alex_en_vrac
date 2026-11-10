@@ -45,3 +45,9 @@ Modèles prêts à remplir (Excel, Word, PowerPoint), régénérables avec le `b
 Tutoriels en français : logiciel (Git, Python, VS Code, architecture…), algorithmes
 (complexité, tris, graphes, programmation dynamique, exercices) et travail avec l'IA
 (prompts, sécurité, agents de code, API, MCP, outils open source), Unreal Engine (rendu réaliste). Voir [`tutos/README.md`](tutos/README.md).
+
+### `skills/`
+
+Skills prêts à installer dans un assistant IA : `grill-me`, compte rendu de réunion, revue de
+code, message de commit, tests, spécifications, analyse de risques, gestion de configuration
+GitLab + Git + DVC. Voir [`skills/README.md`](skills/README.md).

@@ -18,12 +18,13 @@ Les contenus sont neutres vis-à-vis des fournisseurs. Les produits évoluent tr
 | 08 | [Automatiser avec les API](08-automatiser-avec-les-api.md) | Appeler un LLM depuis un script Python |
 | 09 | [MCP : connecter l'IA à vos outils](09-mcp-model-context-protocol.md) | Brancher et écrire des serveurs MCP, en sécurité |
 | 10 | [Harnais et outils IA open source](10-harnais-et-outils-open-source.md) | Agents, frameworks et modèles locaux libres, licences |
+| 11 | [Les skills](11-skills.md) | Installer et écrire des skills (grill me, CR, revue de code, gestion de configuration…) |
 
 ## Parcours conseillés
 
 - **Découverte (1 h)** : 01 → 02 → 06 → 07
 - **Chef de projet** : 01 → 02 → 03 → 05 → 06 → 07
-- **Développeur** : 01 → 02 → 04 → 06 → 07 → 08 → 09 → 10
+- **Développeur** : 01 → 02 → 04 → 06 → 07 → 08 → 09 → 10 → 11
 
 ## Les 5 règles d'or
 
