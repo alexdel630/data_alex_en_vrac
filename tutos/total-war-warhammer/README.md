@@ -25,7 +25,7 @@ Chaque guide liste ses sources avec leur date.
 | [Bretonnie](bretonnie.md) | 🟡 Partiel |
 | [Kislev](kislev.md) | 🟢 Sourcé |
 | [Grand Cathay](grand-cathay.md) | 🟡 Partiel |
-| [Nains](nains.md) | 🔴 À compléter |
+| [Nains](nains.md) | 🟡 Partiel |
 | [Hauts Elfes](hauts-elfes.md) | 🟡 Partiel |
 | [Elfes Sylvains](elfes-sylvains.md) | 🔴 À compléter |
 | [Hommes-lézards](hommes-lezards.md) | 🟡 Partiel |
