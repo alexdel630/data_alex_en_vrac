@@ -46,3 +46,7 @@ flowchart LR
 | # | Tuto | Thème |
 |---|------|-------|
 | 01 | [Rendu réaliste](unreal/01-rendu-realiste.md) | Exposition, éclairage physique, matériaux PBR, caméra, Lumen vs Path Tracer, export Movie Render Queue |
+
+## Total War: WARHAMMER III — `total-war-warhammer/`
+
+Guides de campagne pour les 25 races et factions, avec niveau de fiabilité : [index](total-war-warhammer/README.md).
