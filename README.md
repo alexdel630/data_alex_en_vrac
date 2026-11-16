@@ -51,3 +51,8 @@ Tutoriels en français : logiciel (Git, Python, VS Code, architecture…), algor
 Skills prêts à installer dans un assistant IA : `grill-me`, compte rendu de réunion, revue de
 code, message de commit, tests, spécifications, analyse de risques, gestion de configuration
 GitLab + Git + DVC. Voir [`skills/README.md`](skills/README.md).
+
+### `calculs/`
+
+Calculs scientifiques reproductibles. [`luminance_mwir/`](calculs/luminance_mwir) : luminance
+du fond de ciel en infrarouge moyen (3-5 µm) de 0,5 à 15 km d'altitude, avec libRadtran.

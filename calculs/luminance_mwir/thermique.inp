@@ -1,0 +1,17 @@
+source thermal
+data_files_path ../data/
+atmosphere_file ../data/atmmod/afglus.dat
+mol_abs_param lowtran
+wavelength 3000 5000
+aerosol_default
+albedo 0.1
+sza 45
+phi0 0
+phi 90
+umu -0.01745
+zout 0.5 1 2 5 8 10 12 15
+rte_solver disort
+number_of_streams 16
+output_process per_nm
+output_user lambda zout uu
+quiet
