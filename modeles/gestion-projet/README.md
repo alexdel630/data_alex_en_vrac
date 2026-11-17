@@ -25,3 +25,14 @@ Requiert Python 3 avec `openpyxl` et `python-docx`. Les fichiers sont recréés 
 - Toutes les valeurs calculées sont de vraies formules Excel (écrites en anglais dans le script, affichées en français par Excel).
 - Les plages de formules et de listes sont pré-étendues (200 risques, 40 tâches RACI, 50 projets, 300 actions).
 - Le graphique du tableau de bord couvre les 4 projets d'exemple : étendre sa plage si vous ajoutez des projets.
+
+## `roadmap_simu_unreal.xlsx`
+
+Roadmap de la **simulation Unreal pilotable** (12/2026 → 11/2027), construite sur le gabarit
+`Gantt_lots.xlsx` : 23 tâches réparties en 8 phases (P0 Cadrage → P7 Validation) plus le pilotage
+et une contingence d'environ 15 %, pour 5 personnes et 3 610 h. Tous les onglets du gabarit
+(Équipe, Projets, Financement, Répartition, Pointage, Suivi) se calculent à partir du Gantt.
+
+Régénération : `python build_roadmap_simu.py` (modifier la liste `TACHES` pour ajuster le plan).
+Limite connue : le style étendu des barres de progression (Excel 2010+) n'est pas conservé par
+la génération ; les barres restent affichées avec le style par défaut.
