@@ -46,7 +46,9 @@ flowchart LR
 | # | Tuto | Thème |
 |---|------|-------|
 | 01 | [Rendu réaliste](unreal/01-rendu-realiste.md) | Exposition, éclairage physique, matériaux PBR, caméra, Lumen vs Path Tracer, export Movie Render Queue |
+| 02 | [Rendu d'un objet subpixellique](unreal/02-rendu-subpixellique.md) | Note de travail : cible plus petite qu'un pixel dans une image capteur, 6 pistes de solution |
 
 ## Total War: WARHAMMER III — `total-war-warhammer/`
 
 Guides de campagne pour les 25 races et factions, avec niveau de fiabilité : [index](total-war-warhammer/README.md).
+
